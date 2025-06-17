@@ -2,8 +2,8 @@
 
 ## Privacy Policy / Política de Privacidade
 
-* <img src="images/lang/en.svg" alt="en" heigh="16" /> English version: [Privacy Policy](privacy-policy/en.md).
-* <img src="images/lang/pt.svg" alt="pt" heigh="16" /> Versão em português: [Política de Privacidade](privacy-policy/index.md).
+* <img src="images/lang/en.svg" alt="en" height="16" /> English version: [Privacy Policy](privacy-policy/en.md).
+* <img src="images/lang/pt.svg" alt="pt" height="16" /> Versão em português: [Política de Privacidade](privacy-policy/index.md).
 
 ## Terms of Service / Termos de Serviço
 
