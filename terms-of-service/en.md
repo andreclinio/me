@@ -13,5 +13,3 @@ You are free to refuse our request for your personal information, with the under
 
 Your continued use of our website will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.
 This policy is effective as of 1 October 2019.
-
-
