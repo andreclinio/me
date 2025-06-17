@@ -1,9 +1,11 @@
 # André Luiz Clinio
 
-## Privacy Policy
+## Privacy Policy / Política de Provacidade
 
-Read the full text [here](legal/privacy-policy.md).
+* English version: Read the full text [Privacy Policy](privacy-policy/en.md).
+* Versão em português: Leia [Política de Privacidade](privacy-policy/index.md).
 
-## Terms of Service
+## Terms of Service / Termos de Serviço
 
-Read the full text [here](legal/terms-of-service.md).
+* English version: [Terms of Service in English](terms-of-service/en.md).
+* Versão em português: Leia [Termos de Serviço](terms-of-service/index.md).
